@@ -62,7 +62,7 @@ references: {
     tableName: 'tableName',
   },
   key: 'id'
-  }
+  },
  onDelete: 'cascade',
 },
 ```
